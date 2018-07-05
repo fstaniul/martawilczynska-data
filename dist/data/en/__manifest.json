@@ -1,0 +1,54 @@
+{
+  "before-the-surgery": {
+    "order": 0,
+    "name": "Before the surgery"
+  },
+  "breast-augmentation": {
+    "order": 1,
+    "name": "Breast augmentation"
+  },
+  "rhinoplasty": {
+    "order": 2,
+    "name": "Rhinoplasty (nose correction)"
+  },
+  "blepharoplasty": {
+    "order": 3,
+    "name": "Blepharoplasty (eyelids correction)"
+  },
+  "facelifting": {
+    "order": 4,
+    "name": "Facelifting"
+  },
+  "mammoplasty-gynecomastia": {
+    "order": 5,
+    "name": "Mammoplasty and Gynecomastia"
+  },
+  "abdominoplasty": {
+    "order": 6,
+    "name": "Abdominoplasty"
+  },
+  "mastopexy": {
+    "order": 7,
+    "name": "Mastopexy"
+  },
+  "liposuction": {
+    "order": 8,
+    "name": "Liposuction- lipoplasty"
+  },
+  "otoplasty": {
+    "order": 9,
+    "name": "Otoplasty - ear pinning"
+  },
+  "labiaplasty": {
+    "order": "10",
+    "name": "Labiaplasty - labia minora reduction"
+  },
+  "scar-removal": {
+    "order": 11,
+    "name": "Scar removal"
+  },
+  "aestetic-medicine": {
+    "order": 12,
+    "name": "Aesthetic medicine"
+  }
+}

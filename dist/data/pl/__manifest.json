@@ -1,0 +1,54 @@
+{
+  "before-the-surgery": {
+    "order": 0,
+    "name": "Przygotowanie przed operacją"
+  },
+  "breast-augmentation": {
+    "order": 1,
+    "name": "Powiększanie piersi"
+  },
+  "rhinoplasty": {
+    "order": 2,
+    "name": "Korekcja nosa"
+  },
+  "blepharoplasty": {
+    "order": 3,
+    "name": "Operacje powiek"
+  },
+  "facelifting": {
+    "order": 4,
+    "name": "Lifting twarzy"
+  },
+  "mammoplasty-gynecomastia": {
+    "order": 5,
+    "name": "Redukcja piersi kobiecych i męskich"
+  },
+  "abdominoplasty": {
+    "order": 6,
+    "name": "Plastyka powłok brzusznych"
+  },
+  "mastopexy": {
+    "order": 7,
+    "name": "Podniesienie piersi"
+  },
+  "liposuction": {
+    "order": 8,
+    "name": "Liposukcja"
+  },
+  "otoplasty": {
+    "order": 9,
+    "name": "Korekcja małżowin usznych"
+  },
+  "labiaplasty": {
+    "order": "10",
+    "name": "Korekcja warg sromowych"
+  },
+  "scar-removal": {
+    "order": 11,
+    "name": "Korekcje blizn"
+  },
+  "aestetic-medicine": {
+    "order": 12,
+    "name": "Zabiegi medycyny estetycznej"
+  }
+}

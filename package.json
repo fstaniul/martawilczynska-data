@@ -1,0 +1,32 @@
+{
+  "name": "data-compiler",
+  "version": "1.0.0",
+  "description": "Data Compiler for martawilczynska.pl",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "build": "tsc",
+    "test": "mocha -r ts-node/register test/**/*.ts"
+  },
+  "keywords": [
+    "showdown",
+    "md-to-html"
+  ],
+  "author": "Filip Staniul",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/mkdirp": "^0.5.2",
+    "@types/mocha": "^5.2.3",
+    "@types/node": "^10.3.4",
+    "@types/showdown": "^1.7.4",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "ts-node": "^6.1.2",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "showdown": "^1.8.6"
+  }
+}
